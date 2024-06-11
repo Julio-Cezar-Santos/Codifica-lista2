@@ -6,14 +6,14 @@ Depois de instalar o Node.js, você pode executar os exercícios seguindo estes 
 
 1. Abra o terminal.
 2. Navegue até o diretório que contém os arquivos dos exercícios.
-3. Execute o comando `node` seguido do nome do arquivo do exercício. Por exemplo, para executar o exercício 1, você digitaria `node exercicio1`.
+3. Execute o comando `node` seguido do nome do arquivo do exercício. Por exemplo, para executar o exercício 1, você digitaria `node exercicios/exercicio1`.
 
 Aqui está como você pode executar os exercícios de 1 a 50:
 
 ```bash
-node exercicio1
-node exercicio2
-node exercicio3
+node exercicios/exercicio1
+node exercicios/exercicio2
+node exercicios/exercicio3
 ...
-node exercicio50
+node exercicios/exercicio
 ```
